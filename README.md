@@ -1,0 +1,2 @@
+# Web-Scanner
+Python application using Selenium &amp; BeautifulSoup packages to scan web for specific keywords/emails. Two searching methods: recursive search through page links up to desired depth, Google keyword search and scan of desired number of resulting pages. Two scanning methods: email scanner using various regex/sorting methods, keyword scanner for up to 3 phrases. Option of information storage in SQL, Excel, or Text file.
