@@ -1,0 +1,13 @@
+https://en.wikipedia.org/wiki/Thermophysics
+
+Geological application of thermodynamics
+The original thermophysical models were based upon the studies of lunar temperature variations.[5][6] Further development of the models for Mars included surface-atmosphere energy transfer,[7] atmospheric back-radiation,[2] surface emissivity variations,[3] CO2 frost and blocky surfaces,[4] variability of atmospheric back-radiation,[8] effects of a radiative-convective atmosphere,[9] and single-point temperature observations.[10][11]
+Thermophysics is the application of thermodynamics to geophysics and to planetary science more broadly.
+Thermophysical properties are characteristics that control the diurnal, seasonal, or climatic surface and subsurface temperature variations (or thermal curves) of a material. The most important thermophysical property is thermal inertia, which controls the amplitude of the thermal curve and albedo (or reflectivity), which controls the average temperature.
+Earth thermophysics is a branch of geophysics that uses the naturally occurring surface temperature as a function of the cyclical variation in solar radiation to characterise planetary material properties.
+
+https://www.springer.com/journal/10765
+
+International Journal of Thermophysics serves as an international medium for the publication of papers in thermophysics, assisting both generators and users of thermophysical properties data. This distinguished journal publishes both experimental and theoretical papers on thermophysical properties of matter in the liquid, gaseous, and solid states (including soft matter, biofluids, and nano- and bio-materials), on instrumentation and techniques leading to their measurement, and on computer studies of model and related systems. Studies in all ranges of temperature, pressure, wavelength, and other relevant variables are included.
+Free app available on iTunes and Google Play StoreServes as an international medium for the publication of peer-reviewed papers in thermophysicsPublishes experimental and theoretical papers on thermophysical properties of matter in the liquid, gaseous, and solid states, on instrumentation and measurement techniques and on computer studies of model and related systemsIncludes studies in all ranges of temperature, pressure, wavelength, and other relevant variables95% of authors who answered a survey reported that they would definitely publish or probably publish in the journal again
+
